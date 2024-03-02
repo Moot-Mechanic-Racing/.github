@@ -33,6 +33,6 @@ We love collaborating with fellow bike enthusiasts and engineers! If you have id
 
 ## Contact Us
 
-For inquiries, support, or just to share your passion for race bikes, reach out to us at [contact@mmracing.com](mailto:contact@mmracing.com).
+For inquiries, support, or just to share your passion for race bikes, reach out to us.
 
 Join us in our journey to keep the legacy of classic race bikes alive and roaring on the track!
