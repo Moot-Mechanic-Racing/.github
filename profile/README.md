@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/Moot-Mechanic-Racing/.github/blob/111a93675c959e9055aecfe7746be12dc947b640/profile/logo.png)
+
 # MMRacing - Classic Trackday Innovations
 
 Welcome to the official GitHub repository for MMRacing, a family-driven venture where passion for motorsports and innovation come together. Founded by a dedicated father, daughter, and son team, MMRacing specializes in designing and building high-performance trackday parts for classic motorbikes, with a special focus on models like the Yamaha R1 2003.
