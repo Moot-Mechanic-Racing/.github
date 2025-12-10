@@ -1,38 +1,109 @@
 
 ![Alt text](https://github.com/Moot-Mechanic-Racing/Logos/blob/08e1687e167f5d6982e33ed4b63b218ae85a13df/logoYellowTrans.png)
 
-# Classic Trackday Innovations
+# 🏍️ **MMRacing — Engineering Excellence for Performance Motorcycles**
+### *Proprietary Research, Development, and Product Engineering*
 
-Welcome to the official GitHub repository for MMRacing, a family-driven venture where passion for motorsports and innovation come together. Founded by a dedicated father, daughter, and son team, MMRacing specializes in designing and building high-performance trackday parts for classic motorbikes, with a special focus on models like the Yamaha R1 2003.
+Welcome to the official GitHub repository for **MMRacing**, a privately operated motorsport engineering company specialising in high-performance hardware, firmware, and data-driven technology for classic and modern track motorcycles.
 
-## About Us
+This repository serves as the internal development hub for **proprietary software**, **hardware designs**, and **technical documentation** supporting current and future MMRacing products.
 
-At MMRacing, we combine expertise, passion, and a touch of family magic to breathe new life into classic race bikes. Our journey began with a shared dream: to transform vintage motorbikes into trackday masterpieces. Each project we undertake is more than just a build; it's a piece of history that we're proud to be a part of.
+---
 
-## Our Project
+## 📌 **About MMRacing**
 
-Our GitHub page is a showcase of our journey, documenting the technical strides we've made in developing trackday components for classic bikes. We delve into the nuts and bolts of motorcycle engineering, pushing the boundaries of what these timeless machines can do.
+MMRacing is a family-driven engineering company focused on delivering **precision performance solutions** for iconic motorcycles.  
+Our work spans:
 
-### Key Features
+- Embedded systems  
+- Sensor integration  
+- Telemetry and data acquisition  
+- Motorcycle performance engineering  
+- Product development for track environments  
 
-- **Custom Parts Design**: Tailoring components specifically for models like the Yamaha R1 2003, ensuring a perfect blend of classic aesthetics and modern performance.
-- **Family-Crafted Solutions**: Every part and modification is a result of collaborative innovation from our family team.
-- **Trackday Ready**: Focused on enhancing the trackday experience, our parts are built to withstand the rigors of racing.
+We combine modern engineering methodologies with deep mechanical experience, building advanced technology platforms for machines such as the **Yamaha YZF750R** and **Yamaha R1 5PW**.
 
-### Technologies and Tools
+---
 
-Our projects integrate a blend of traditional craftsmanship and modern technology. We use a variety of hardware tools for the physical build and software solutions for design and telemetry analysis. 
+## 🚀 **Flagship Project: ApexSense™ AS1**
 
-## Installation and Setup
+**ApexSense™ AS1** is MMRacing’s proprietary motorcycle telemetry platform, engineered to provide real-time data acquisition and performance analytics for track motorcycles.
 
-For track day telemetry and other software-related aspects of our projects, you can find setup instructions and documentation within each project's directory.
+This repository may contain internal resources related to ApexSense development, including:
 
-## Contributing
+- Firmware  
+- Hardware interface specifications  
+- Logging formats  
+- Sensor integration code  
+- Analytics models  
+- Technical product documentation  
 
-We love collaborating with fellow bike enthusiasts and engineers! If you have ideas, suggestions, or want to contribute to our project, please feel free to fork the repository or contact us for more information.
+All ApexSense components and materials are **confidential and proprietary to MMRacing**.
 
-## Contact Us
+---
 
-For inquiries, support, or just to share your passion for race bikes, reach out to us.
+## 🛡️ **Purpose of This Repository**
 
-Join us in our journey to keep the legacy of classic race bikes alive and roaring on the track!
+This GitHub organization is used exclusively for **internal product development** and **business documentation**.  
+It includes:
+
+### 💻 **Firmware & Software Development**
+Proprietary embedded code, module tests, and system integrations.
+
+### 📡 **Hardware Engineering**
+Schematics, wiring diagrams, mechanical designs, and sensor specifications.
+
+### 📁 **Documentation & Notes**
+- Product documents  
+- Technical specifications  
+- Development logs  
+- Obsidian-based engineering notes  
+- Planning and roadmap materials  
+
+### 🔬 **R&D Assets**
+Early-stage prototypes, experimental concepts, and evaluation tools for future product lines.
+
+---
+
+## 🔒 **Intellectual Property Notice**
+
+All materials within this repository are:
+
+- **Proprietary**  
+- **Confidential**  
+- **Not open-source**  
+- **Not licensed for external use, redistribution, or modification**  
+
+MMRacing retains exclusive ownership and control over:
+
+- Firmware  
+- Hardware designs  
+- Data formats  
+- Software tools  
+- Analytical systems  
+- Documentation  
+
+Use of this repository is restricted to authorized personnel.
+
+---
+
+## 🎯 **Business Scope & Objectives**
+
+MMRacing’s engineering efforts focus on:
+
+- Development of advanced performance technology for motorcycles  
+- Long-term evolution of the ApexSense telemetry platform  
+- Hardware and firmware product engineering  
+- Track validation and performance testing  
+- Maintaining a structured internal knowledge base  
+
+This repository supports the operational and technical needs of these goals.
+
+---
+
+## 📬 **Contact**
+
+For business inquiries, technical questions, or partnership discussions, please contact MMRacing through official channels.
+
+---
+
