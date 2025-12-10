@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/Moot-Mechanic-Racing/.github/blob/111a93675c959e9055aecfe7746be12dc947b640/profile/logo.png)
+![alt text]([logoYellowTrans.png](https://github.com/Moot-Mechanic-Racing/Logos/blob/08e1687e167f5d6982e33ed4b63b218ae85a13df/logoYellowTrans.png))
 
 # Classic Trackday Innovations
 
