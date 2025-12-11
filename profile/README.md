@@ -24,6 +24,7 @@ Our work spans:
 We combine modern engineering methodologies with deep mechanical experience, building advanced technology platforms for machines such as the **Yamaha YZF750R** and **Yamaha R1 5PW**.
 
 ---
+![Alt text](https://github.com/MMRacing/Assets/blob/1eaa07a45c1d4ad4142539951c8d74c9b5182de6/Logos/ApexSenseLogoTEXTSmall.png)
 
 ## 🚀 **Flagship Project: ApexSense™ AS1**
 
