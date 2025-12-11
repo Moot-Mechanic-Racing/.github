@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/Moot-Mechanic-Racing/Logos/blob/08e1687e167f5d6982e33ed4b63b218ae85a13df/logoYellowTrans.png)
+![Alt text](https://github.com/MMRacing/Assets/blob/4b97090e1fb488f6b0483bfe33456ab9a0e51824/Logos/logoYellowTrans.png)
 
 # 🏍️ **MMRacing — Engineering Excellence for Performance Motorcycles**
 ### *Proprietary Research, Development, and Product Engineering*
